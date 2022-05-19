@@ -1,5 +1,5 @@
 # YouTubeDownloader
-This Python file downloads any YouTube video to your device
+This Python file downloads any YouTube video to your device as an mp4 file
 
 To use this project;
 - Download the project to your device
